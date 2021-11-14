@@ -1,5 +1,5 @@
 # POAPathon2021
 
-http://poapathon.com/
-https://gitcoin.co/hackathon/poapathon
-https://discord.gg/UBR6r8t3
+- Main Site: http://poapathon.com/
+- Gitcoin Event: https://gitcoin.co/hackathon/poapathon
+- Discord: https://discord.gg/UBR6r8t3
